@@ -1,1 +1,3 @@
 # OpenDoubanUserStatusInNewTab
+
+在豆瓣主页，没有办法点击开一个新的页面去看某条用户更新的状态、说说等。就做了这么一个脚本，给所有说说element添加一个鼠标click响应，点击后自动弹开新标签页显示。
