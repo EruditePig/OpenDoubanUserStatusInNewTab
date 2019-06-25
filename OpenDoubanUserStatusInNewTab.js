@@ -2,9 +2,9 @@
 // @name            在豆瓣主页点击其他用户发表的某个状态，在新Tab页打开详细页面
 // @namespace       http://tampermonkey.net/
 // @description     Test
-// @version         0.0.3
+// @version         0.0.4
 // @author          EruditePig
-// @include         https://www.douban.com/*
+// @include         /^https://www\.douban\.com/(\?p=[0-9]+)*$/
 // ==/UserScript==]
 
 
